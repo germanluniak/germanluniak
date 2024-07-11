@@ -6,13 +6,13 @@
 
 </div>
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>Sobre mi</b>
 
-- Soy un apasionado del testing con experiencia integral en QA, abarcando tanto el testing manual como el automatizado.
+- Soy un apasionado del testing con experiencia integral en QA, <br>abarcando tanto el testing manual como el automatizado. <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*URVbNQirYASEkRkZPRSv4A.gif">
 
-- Mi enfoque se centra en identificar y reportar defectos para mejorar la calidad del software.
+- Mi enfoque se centra en identificar y reportar defectos para mejorar la calidad del software. 
 
 - Mis habilidades técnicas, comunicativas y de trabajo en equipo respaldan mi compromiso para contribuir al éxito de proyectos en entornos dinámicos.
 
@@ -107,12 +107,8 @@
 
 ## <b>✉️ Contacto</b>
 
-</a>	
-  <a href="mailto:germanluniak@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
-  </a>
-   <a href="https://www.linkedin.com/in/german-lunak" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>    
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:germanluniak@gmail.com?subject=Feedback%20From%20Github&body=Hello)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/german-lunak)
+  
 <br>
 

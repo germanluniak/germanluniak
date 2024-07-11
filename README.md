@@ -105,7 +105,7 @@
 
 <br>
 
-## <img src="https://i.gifer.com/GeSE.gif" width='30'> <b>Contacto</b>
+## <b>✉️ Contacto</b>
 
 </a>	
   <a href="mailto:germanluniak@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">

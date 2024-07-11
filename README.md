@@ -71,15 +71,20 @@
 
 </p>
 
-<br> 
+<br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <b> 🏆 Certificaciones</b>
+<Br>
+  
+|[![](https://img.shields.io/badge/Curso%20Profesional%20de%20Testing-red?style=for-the-badge)](https://drive.google.com/file/d/1Poy48dEDj3OWa8VcheP4t_lgGiFuKOT4/view?pli=1)|[![](https://img.shields.io/badge/Curso%20QA%20Manual-blue?style=for-the-badge)](https://drive.google.com/file/d/1V5FTXcYYKnxJ6xgw4KszaRnov4YcGSf8/view?usp=drive_link)|[![](https://img.shields.io/badge/Selenium%20Automation-green?style=for-the-badge)](https://drive.google.com/file/d/1Beyq_idHLqGFUKYSo6ov4neWmjia3k1y/view?usp=drive_link)|[![](https://img.shields.io/badge/Curso%20Playwright%20con%20Python-orange?style=for-the-badge)](https://drive.google.com/file/d/15FaClcHE8LNfWyRGXjlHKmE5eVQqK9Yz/view?usp=drive_link)|
+|---|---|---|---|
+|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
+  
+ 
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=tokyonight&show_icons=true/460/300">
+<Br>
+  
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 <br>
 
@@ -89,7 +94,7 @@
   <a href="mailto:germanluniak@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-   <a href="www.linkedin.com/in/german-lunak" target="_blank">
+   <a href="https://www.linkedin.com/in/german-lunak" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>    
 <br>

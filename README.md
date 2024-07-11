@@ -85,10 +85,18 @@
     ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-
+<br>
 </p>
 
-<br>
+## <b>💻 Proyectos de Testing Automatizados</b>
+<p align="center">
+<a href="https://github.com/germanluniak/todo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=germanluniak&repo=todo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+  
+<br><br><br>
+
+
 
 ## <b> 🏆 Certificaciones</b>
 <Br>
@@ -101,8 +109,6 @@
 
 <Br>
   
-
-
 <br>
 
 ## <b>✉️ Contacto</b>

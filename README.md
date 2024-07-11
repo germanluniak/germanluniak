@@ -18,6 +18,14 @@
 
 <br>
 
+## <b>🎓 Formación Académica</b>
+- INGENIERO EN SISTEMAS DE INFORMACIÓN   <br>Facultad Regional Concepción del Uruguay UTN (2006 - 2017).
+
+- ANALISTA UNIVERSITARIO EN SISTEMAS <br> Facultad Regional Concepción del Uruguay UTN (2006 - 2016).
+<p align="center">
+
+<br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
@@ -78,7 +86,7 @@
   
 |[![](https://img.shields.io/badge/Curso%20Profesional%20de%20Testing-red?style=for-the-badge)](https://drive.google.com/file/d/1Poy48dEDj3OWa8VcheP4t_lgGiFuKOT4/view?pli=1)|[![](https://img.shields.io/badge/Curso%20QA%20Manual-blue?style=for-the-badge)](https://drive.google.com/file/d/1V5FTXcYYKnxJ6xgw4KszaRnov4YcGSf8/view?usp=drive_link)|[![](https://img.shields.io/badge/Selenium%20Automation-green?style=for-the-badge)](https://drive.google.com/file/d/1Beyq_idHLqGFUKYSo6ov4neWmjia3k1y/view?usp=drive_link)|[![](https://img.shields.io/badge/Curso%20Playwright%20con%20Python-orange?style=for-the-badge)](https://drive.google.com/file/d/15FaClcHE8LNfWyRGXjlHKmE5eVQqK9Yz/view?usp=drive_link)|
 |---|---|---|---|
-|[![](https://img.shields.io/badge/Data%20Science%20Toolbox%20-II-orange?style=for-the-badge)](https://github.com/Aryagm/Aryagm/blob/main/Certificates/Data%20Science%20Toolbox%20-%20II-1.jpg)|[![](https://img.shields.io/badge/Statistical%20Thinking%20in%20Python-purple?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Statistical%20Thinking%20in%20Python-1.jpg)|[![](https://img.shields.io/badge/Supervized%20Learning%20with%20Sklearn-red?style=for-the-badge)](https://raw.githubusercontent.com/Aryagm/Aryagm/main/Certificates/Supervized%20Learning%20with%20Scikit-Learn-1.jpg)|[![](https://img.shields.io/badge/More%20on%20the%20Way!-yellow?style=for-the-badge)](https://github.com/Aryagm)|
+|[![](https://img.shields.io/badge/Curso%20Appium%20Mobile%20Testing-orange?style=for-the-badge)](https://drive.google.com/file/d/1zYjWBBZYX6-bRd1O0U01ZPQDQORs0WO3/view?usp=drive_link)|[![](https://img.shields.io/badge/Curso%20Automatizacion%20en%20Cypress-purple?style=for-the-badge)](https://drive.google.com/file/d/1TawmqzUp1nKNWm-XryMjya3C_aVktf_L/view?usp=drive_link)|[![](https://img.shields.io/badge/Curso%20Automatizacion%20en%20Katalon-red?style=for-the-badge)](https://drive.google.com/file/d/1jFB1h8-KbXYER5iU4_nC5kWrwYds1qsg/view?usp=drive_link)|[![](https://img.shields.io/badge/Curso%20de%20Automatizacion%20con%20Serenity-yellow?style=for-the-badge)](https://drive.google.com/file/d/15frf1yEjC2_5oyLCls9Eu-1t8PYeitd_/view?usp=drive_link)|
   
  
 
@@ -99,16 +107,3 @@
   </a>    
 <br>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sarath-p-m/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="sarath-p-m" height="40" width="45" /></a>
-&nbsp;<a href="https://dev.to/sarath_pm" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif" alt="sarath_pm" height="40" width="47" /></a>  
-&nbsp;<a href="mailto:sarath2375@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="sarath2375@gmail.com" width="40" /></a>      
-&nbsp;<a href="https://www.hackerrank.com/sarath_pm" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="sarath_pm" height="40" width="45"></a>
-&nbsp;<a href="https://stackoverflow.com/users/19234611" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171333456-ac1d5e66-bd90-468b-a1bf-c030ba6a1fed.gif" alt="19234611" width="40" />StackOverflow</a>
-&nbsp;<a href="skype:sarath2375?add" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/176819343-c1894b0e-8622-4a39-a34c-fd4125d32d4d.gif" alt="sarath2375" width="40" /></a>
-  
-  
-
------
-Credits: [Sarath P M](https://github.com/sarath-pm)
-Last Edited on: 10/07/2022

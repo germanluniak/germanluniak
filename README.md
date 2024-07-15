@@ -90,10 +90,9 @@
 
 ## <b>💻 Proyectos de Testing Automatizados</b>
 
-<Br>
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=germanluniak&repo=Selenium-Java)](https://github.com/germanluniak/Selenium-Java)
-
+<a href="https://github.com/germanluniak/Selenium-Java">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=germanluniak&repo=Selenium-Java&theme=tokyonight" />
+</a>
   
 <br><br><br>
 

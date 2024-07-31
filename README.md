@@ -89,8 +89,8 @@
 
 ## <b>💻 Proyectos de Testing Automatizados</b>
 
-<a href="https://github.com/germanluniak/Playwright-Python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=germanluniak&repo=Playwright-Python&theme=tokyonight" />
+<a href="https://github.com/germanluniak/Playwrigth-Python">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=germanluniak&repo=Playwrigth-Python&theme=tokyonight" />
 </a>  
 <br><br><br>
 

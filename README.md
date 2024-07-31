@@ -89,9 +89,6 @@
 
 ## <b>💻 Proyectos de Testing Automatizados</b>
 
-<a href="https://github.com/germanluniak/Selenium-Java">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=germanluniak&repo=Selenium-Java&theme=tokyonight" />
-</a>
 <a href="https://github.com/germanluniak/Playwright-Python">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=germanluniak&repo=Playwright-Python&theme=tokyonight" />
 </a>  
